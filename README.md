@@ -14,10 +14,10 @@ Calculadora usando gRPC.
 XML-RPC entre cliente y servidor.
 
 Para ejecutar usar:
-### Ejercicio 1:
+#### Ejercicio 1:
 - py clienteGrpc.py
 - py servidorGrpc.py
 
-### Ejercicio 2
+#### Ejercicio 2
 - py "Servidor XML-RPC.py"
 - py "Cliente XML-RPC.py"
