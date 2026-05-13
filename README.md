@@ -34,25 +34,10 @@ Operaciones disponibles:
 
 ---
 
-# Requisitos
+## Requisitos
 
 Instalar dependencias:
 pip install grpcio grpcio-tools
-
-# Estructura del proyecto
-calculadora-rpc/
-│
-├── calculadora-grpc/
-│   ├── calculadora.proto
-│   ├── calculadora_pb2.py
-│   ├── calculadora_pb2_grpc.py
-│   ├── servidorGrpc.py
-│   └── clienteGrpc.py
-│
-├── calculadora-xmlrpc/
-│   ├── servidor_xmlrpc.py
-│   └── cliente_xmlrpc.py
-└── README.md
 
 ## Ejecutar Calculadora XML-RPC
 1. Abrir terminal e ingresar a la carpeta:
